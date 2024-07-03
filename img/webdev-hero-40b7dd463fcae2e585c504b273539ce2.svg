@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="476px" height="270px" viewBox="0 0 476 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>1_work</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="48.8065626" y="23.8110818" width="4.09" height="110.66" rx="1.37"></rect>
+        <rect id="path-2" x="42.9765626" y="17.9762168" width="4.09" height="110.66" rx="1.37"></rect>
+        <rect id="path-3" x="26.1771874" y="109.14759" width="4.09" height="160.26" rx="1.37"></rect>
+        <linearGradient x1="18.1553338%" y1="-24.4715406%" x2="45.1622164%" y2="38.5614585%" id="linearGradient-4">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="89.8985878" y="26.9310224" width="13.8106244" height="55.7717552" rx="2.97"></rect>
+        <linearGradient x1="72.4541953%" y1="90.7339222%" x2="27.4668134%" y2="29.9969884%" id="linearGradient-6">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M94.2,50.16 C105.72,42.82 123.37,49.91 133.63,66 L91.9,92.59 C81.65,76.5 82.68,57.5 94.2,50.16 Z" id="path-7"></path>
+        <path d="M133.63,66 L122.42,73.14 C114.92,61.38 105.16,52.87 96.02,49.14 C107.51,43.57 123.9,50.73 133.63,66 Z" id="path-8"></path>
+        <path d="M19.4362964,110.659874 L20.7762964,110.659874 C21.5252484,110.654227 22.1399168,111.251079 22.1562964,111.999874 L22.1562964,269.549874 C22.1562964,270.312027 21.5384494,270.929874 20.7762964,270.929874 L19.4362964,270.929874 C18.6796663,270.929874 18.0662964,270.316504 18.0662964,269.559874 L18.0662964,111.999874 C18.0662964,111.243243 18.6796663,110.629874 19.4362964,110.629874 L19.4362964,110.659874 Z" id="path-9"></path>
+        <circle id="path-10" cx="12.65" cy="113.65" r="9.98"></circle>
+        <circle id="path-11" cx="10.79" cy="113.65" r="9.98"></circle>
+        <circle id="path-12" cx="10.79" cy="113.65" r="5"></circle>
+        <polygon id="path-13" points="292.38 263.23 333.19 263.23 302.3 170.78 273.72 170.78"></polygon>
+        <polygon id="path-14" points="289.63 263.23 330.45 263.23 299.56 170.78 270.98 170.78"></polygon>
+        <rect id="path-15" x="261.01" y="259.57" width="70.49" height="3.66"></rect>
+        <path d="M381,236 L216.55,236 C215.05051,236.026231 213.612175,235.406257 212.601641,234.298115 C211.591108,233.189972 211.106008,231.700726 211.27,230.21 L220.51,124.63 C220.843327,121.38438 223.547838,118.898805 226.81,118.84 L391.24,118.84 C392.73949,118.813769 394.177825,119.433743 395.188359,120.541885 C396.198892,121.650028 396.683992,123.139274 396.52,124.63 L387.28,230.21 C386.947636,233.448189 384.254474,235.931216 381,236 Z" id="path-16"></path>
+        <path d="M377.66,236 L213.22,236 C211.72051,236.026231 210.282175,235.406257 209.271641,234.298115 C208.261108,233.189972 207.776008,231.700726 207.94,230.21 L217.18,124.63 C217.513327,121.38438 220.217838,118.898805 223.48,118.84 L387.91,118.84 C389.40949,118.813769 390.847825,119.433743 391.858359,120.541885 C392.868892,121.650028 393.353992,123.139274 393.19,124.63 L384,230.23 C383.655381,233.482658 380.930647,235.962423 377.66,236 Z" id="path-17"></path>
+        <path d="M377.15,234.4 L216.7,234.4 C215.518656,234.421499 214.3852,233.933545 213.588887,233.060664 C212.792575,232.187783 212.410439,231.014415 212.54,229.84 L221.71,125 C221.97436,122.42957 224.126154,120.467134 226.71,120.44 L387.12,120.44 C388.301344,120.418501 389.4348,120.906455 390.231113,121.779336 C391.027425,122.652217 391.409561,123.825585 391.28,125 L382.11,229.79 C381.871204,232.365214 379.735778,234.349955 377.15,234.4 Z" id="path-18"></path>
+        <path d="M212.64,228.61 L221.64,126.28 C221.973327,123.03438 224.677838,120.548805 227.94,120.49 L225.31,120.49 C222.047838,120.548805 219.343327,123.03438 219.01,126.28 L210.01,228.61 C209.846008,230.100726 210.331108,231.589972 211.341641,232.698115 C212.352175,233.806257 213.79051,234.426231 215.29,234.4 L217.92,234.4 C216.42051,234.426231 214.982175,233.806257 213.971641,232.698115 C212.961108,231.589972 212.476008,230.100726 212.64,228.61 Z" id="path-19"></path>
+        <linearGradient x1="86.7355246%" y1="-36.7484827%" x2="11.5325982%" y2="133.882663%" id="linearGradient-20">
+            <stop stop-color="#3769A5" offset="0%"></stop>
+            <stop stop-color="#08448B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M209.32,214.37 L207.9,230.58 C207.75379,231.986548 208.217377,233.388316 209.17337,234.430349 C210.129363,235.472381 211.48609,236.054754 212.9,236.03 L377.82,236.03 C380.981431,235.967419 383.603267,233.564069 383.94,230.42 L385.34,214.42 L209.32,214.37 Z" id="path-21"></path>
+        <path d="M298.24,222.21 C298.298018,221.612186 298.442875,221.026023 298.67,220.47 C298.112335,220.151898 297.482004,219.983121 296.84,219.98 C294.35,219.98 292.13,222.31 291.84,225.19 C291.55,228.07 293.4,230.4 295.84,230.4 C297.913342,230.26734 299.701962,228.89725 300.37,226.93 C298.799435,225.907405 297.967668,224.064241 298.24,222.21 Z" id="path-22"></path>
+        <linearGradient x1="-9723.72514%" y1="50%" x2="-9623.73494%" y2="50%" id="linearGradient-23">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <path d="M69.68,111.41 C73.9964261,112.521173 78.0150154,114.569732 81.45,117.41 L75.69,120.47 L83.6,119.36 C85.2789267,121.027656 86.7557511,122.887112 88,124.9 L77.46,127.9 L89.07,126.8 C89.28,127.21 89.48,127.64 89.68,128.07 L77.88,133.76 L90.56,130.17 C90.85,130.95 91.12,131.74 91.35,132.55 C92.2514442,135.72423 92.6297324,139.02412 92.47,142.32 L81.27,143.65 L92.33,144.04 C92.33,144.31 92.27,144.59 92.24,144.86 L82.62,146.36 L92.03,146.19 C91.6432837,148.350795 91.0229783,150.463187 90.18,152.49 L82.87,152.64 L88.98,155.03 C87.6592318,157.53709 85.9929642,159.846302 84.03,161.89 C78.29,136.83 69.68,111.41 69.68,111.41 Z" id="path-24"></path>
+        <linearGradient x1="-14251.0538%" y1="3.58016455%" x2="-14375.5375%" y2="89.3706916%" id="linearGradient-25">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <path d="M79.1,152.66 L73,156.51 C71.5785627,155.419208 70.2567131,154.204445 69.05,152.88 L76.49,146.19 L66.55,149.72 C64.6587496,146.972036 63.2330024,143.931343 62.33,140.72 C62.26,140.46 62.2,140.2 62.14,139.94 L72.39,135.78 L61.45,136.39 C61.34,135.58 61.27,134.76 61.23,133.95 L71.67,129.12 L61.18,132.62 C61.167524,130.390918 61.4022922,128.167328 61.88,125.99 L71.65,121.99 L62.42,124 C62.8122746,122.658178 63.2967608,121.345054 63.87,120.07 L70.45,117.8 L64.31,119.13 C65.6907541,116.306927 67.5024311,113.715925 69.68,111.45 C69.68,111.45 78.29,136.87 83.99,161.91 C82.1714686,161.442386 80.4004768,160.806302 78.7,160.01 L79.1,152.66 Z" id="path-26"></path>
+        <path d="M98.06,126.35 C91.3786069,129.9538 85.5741202,134.986631 81.06,141.09 L91.87,143.74 L78.34,145.19 C76.2791422,148.611247 74.6278001,152.262995 73.42,156.07 L92.09,156.62 L72.43,159.62 C72.25,160.39 72.1,161.17 71.96,161.96 L93.85,166.43 L71.38,165.77 C71.22,167.17 71.1,168.58 71.06,170.02 C70.8924679,175.610972 71.6424077,181.191605 73.28,186.54 L92.36,184.08 L74.23,189.3 C74.39,189.74 74.55,190.18 74.73,190.61 L91.26,189.1 L75.64,192.71 C77.1833569,196.100377 79.0912658,199.312639 81.33,202.29 L93.49,199.52 L84.4,206 C87.6190552,209.570963 91.3215594,212.674334 95.4,215.22 C94.42,171.68 98.06,126.35 98.06,126.35 Z" id="path-27"></path>
+        <path d="M99.69,198 L111.33,201.82 C113.218573,199.439829 114.891825,196.896486 116.33,194.22 L101.23,186.31 L119.17,188 C121.151043,182.719355 122.245792,177.147622 122.41,171.51 C122.41,171.05 122.41,170.6 122.41,170.15 L103.73,167.55 L122.07,164 C121.91,162.62 121.68,161.26 121.41,159.91 L102.14,156.28 L120.95,157.69 C120.037506,154.021748 118.719384,150.466509 117.02,147.09 L99.22,144.64 L115.3,144 C114.103437,141.953553 112.766922,139.992216 111.3,138.13 L99.47,137.13 L110.18,136.77 C106.713297,132.697755 102.634596,129.189194 98.09,126.37 C98.09,126.37 94.45,171.7 95.47,215.23 C98.2964915,213.709619 100.974791,211.92855 103.47,209.91 L99.69,198 Z" id="path-28"></path>
+        <linearGradient x1="83.5105633%" y1="-20.9443881%" x2="2.66052438%" y2="111.196163%" id="linearGradient-29">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M111.75,129.3 C106.946346,130.85219 102.540133,133.435848 98.84,136.87 L104.35,140.6 L96.35,139.32 C94.3845946,141.439311 92.6327981,143.747128 91.12,146.21 L101.54,149.79 L89.76,148.56 C89.48,149.07 89.23,149.56 88.97,150.14 L100.33,157.06 L87.79,152.75 C87.39,153.75 87,154.75 86.65,155.75 C85.3010022,159.661384 84.4705936,163.73274 84.18,167.86 L95.51,169.38 L84.09,169.99 C84.09,170.33 84.09,170.67 84.09,170.99 L93.77,172.74 L84.13,172.64 C84.2286113,175.261098 84.580245,177.866537 85.18,180.42 L92.67,180.53 L86.07,183.53 C87.0434354,186.528804 88.4445423,189.371434 90.23,191.97 C99.47,160.87 111.75,129.3 111.75,129.3 Z" id="path-30"></path>
+        <linearGradient x1="99.9587118%" y1="50%" x2="-0.0412881916%" y2="50%" id="linearGradient-31">
+            <stop stop-color="#3769A5" offset="0%"></stop>
+            <stop stop-color="#08448B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M96.5,180.48 L102.21,185.18 C103.843136,183.788066 105.364476,182.270069 106.76,180.64 L100,172.44 L109.74,176.7 C112.073865,173.240919 113.940042,169.48839 115.29,165.54 C115.4,165.22 115.49,164.89 115.59,164.54 L105.59,159.54 L116.75,160.17 C116.97,159.17 117.15,158.17 117.3,157.17 L107.23,151.3 L117.54,155.51 C117.85098,152.787863 117.907892,150.042687 117.71,147.31 L108.21,142.53 L117.45,144.79 C117.21942,143.150545 116.885421,141.527307 116.45,139.93 L110,137.19 L116.13,138.76 C115.14656,135.392619 113.634378,132.202862 111.65,129.31 C111.65,129.31 99.37,160.88 90.13,191.95 C92.1010838,191.33092 94.0068368,190.520389 95.82,189.53 L96.5,180.48 Z" id="path-32"></path>
+        <path d="M71.65,151.09 C67.2187372,154.911157 63.6818959,159.659947 61.29,165 L69.89,165.21 L59.89,168.55 C58.9037792,171.465042 58.2627364,174.485663 57.98,177.55 L72.17,174.87 L57.82,180.39 C57.82,181 57.82,181.62 57.82,182.23 L75.09,181.97 L58.02,185.2 C58.13,186.28 58.28,187.37 58.48,188.46 C59.3053344,192.741296 60.8325806,196.856752 63,200.64 L77,195.64 L64.18,202.64 C64.38,202.94 64.57,203.25 64.77,203.55 L77,199.6 L65.8,204.92 C67.5259801,207.223796 69.4975906,209.332882 71.68,211.21 L80.4,207.1 L74.59,213.48 C77.6241233,215.642802 80.9464498,217.369604 84.46,218.61 C76.43,185.92 71.65,151.09 71.65,151.09 Z" id="path-33"></path>
+        <path d="M84.78,204.93 L94.2,205.93 C95.236576,203.819395 96.0832495,201.620721 96.73,199.36 L84,195.85 L97.8,194.15 C98.4208619,189.830323 98.3228725,185.437694 97.51,181.15 C97.44,180.8 97.35,180.47 97.28,180.15 L82.75,181.29 L96,175.56 C95.65,174.56 95.25,173.56 94.83,172.56 L79.7,173 L94.14,171 C92.8442421,168.382465 91.2611626,165.917288 89.42,163.65 L75.57,164.75 L87.57,161.56 C86.3248202,160.216073 84.9883067,158.95975 83.57,157.8 L74.47,159 L82.47,157 C79.1776359,154.503125 75.5173107,152.532959 71.62,151.16 C71.62,151.16 76.4,185.99 84.39,218.68 C86.2585964,217.062653 87.972651,215.274948 89.51,213.34 L84.78,204.93 Z" id="path-34"></path>
+        <linearGradient x1="-37.7807666%" y1="8.26268335%" x2="96.7047747%" y2="68.2815233%" id="linearGradient-35">
+            <stop stop-color="#FEB114" offset="0%"></stop>
+            <stop stop-color="#FE7914" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="198.82904%" y1="-5.45210213%" x2="19.9063232%" y2="61.2209637%" id="linearGradient-36">
+            <stop stop-color="#FF9F5B" offset="0%"></stop>
+            <stop stop-color="#E5670E" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-37" points="186.85 263.23 133.06 263.23 148.1 191.19 201.89 191.19"></polygon>
+        <linearGradient x1="102.283431%" y1="-13.2981677%" x2="18.3816184%" y2="88.2842865%" id="linearGradient-38">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-39" points="183.38 263.23 128.62 263.23 143.93 191.19 198.69 191.19"></polygon>
+        <polygon id="path-40" points="179.87 256.81 134.86 256.81 147.45 197.61 192.45 197.61"></polygon>
+        <polygon id="path-41" points="147.45 197.61 134.86 256.81 138.06 256.81 150.64 197.61"></polygon>
+        <polygon id="path-42" points="193.31 230.4 199.44 263.23 186.34 263.23"></polygon>
+        <polygon id="path-43" points="142.23 237.19 164.68 218.61 173.11 224.54 190.37 207.4 179.87 256.81 138.06 256.81"></polygon>
+        <path d="M163.69,210.33 C163.03,213.72 159.91,216.47 156.69,216.47 C153.47,216.47 151.46,213.72 152.12,210.33 C152.78,206.94 155.9,204.19 159.12,204.19 C162.34,204.19 164.35,206.94 163.69,210.33 Z" id="path-44"></path>
+        <polygon id="path-45" points="353.64 202.51 266.88 202.51 271.98 144.16 358.75 144.16"></polygon>
+        <polygon id="path-46" points="379.31 138.83 258.13 138.83 259.02 128.66 380.19 128.66"></polygon>
+        <polygon id="path-47" points="271.98 144.16 353.64 202.51 266.88 202.51"></polygon>
+        <rect id="path-48" x="293.8" y="258.12" width="26.27" height="5.11"></rect>
+        <rect id="path-49" x="210.72" y="259.57" width="83.91" height="3.66"></rect>
+        <polygon id="path-50" points="319.94 258.71 294.63 263.16 294.63 259.56 319.94 255.11"></polygon>
+        <polygon id="path-51" points="236.03 255.11 319.94 255.11 294.63 259.56 210.72 259.56"></polygon>
+        <ellipse id="path-52" cx="320.07" cy="259.17" rx="2.96" ry="4.06"></ellipse>
+        <path d="M363.22,263.23 C363.726556,263.23335 364.192994,262.954886 364.430396,262.507393 C364.667799,262.0599 364.636817,261.517547 364.35,261.1 C360.465641,255.667767 354.198129,252.444417 347.52,252.444417 C340.841871,252.444417 334.574359,255.667767 330.69,261.1 C330.403183,261.517547 330.372201,262.0599 330.609604,262.507393 C330.847006,262.954886 331.313444,263.23335 331.82,263.23 L363.22,263.23 Z" id="path-53"></path>
+        <path d="M345.07,260 C346.333958,257.274896 348.021528,254.767167 350.07,252.57 C349.217439,252.463869 348.359142,252.410434 347.5,252.41 C340.821679,252.403724 334.552217,255.625996 330.67,261.06 C330.383183,261.477547 330.352201,262.0199 330.589604,262.467393 C330.827006,262.914886 331.293444,263.19335 331.8,263.19 L346.2,263.19 C345.1,263.23 344.43,261.37 345.07,260 Z" id="path-54"></path>
+        <rect id="path-55" x="362.59" y="63.96" width="47.82" height="37.21" rx="1.97"></rect>
+        <linearGradient x1="46.33124%" y1="102.52306%" x2="71.7500214%" y2="-23.6299512%" id="linearGradient-56">
+            <stop stop-color="#DBDBDB" offset="0%"></stop>
+            <stop stop-color="#A6A6A6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-57">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-58" points="211.75 35.08 192.03 35.08 192.03 85.62 226.05 85.62 226.05 49.76"></polygon>
+        <rect id="path-59" x="184.35" y="50.84" width="12.37" height="4.19"></rect>
+        <rect id="path-60" x="184.35" y="59.44" width="24.85" height="4.19"></rect>
+        <rect id="path-61" x="184.35" y="67.83" width="24.85" height="4.19"></rect>
+        <rect id="path-62" x="184.35" y="76.21" width="24.85" height="4.19"></rect>
+        <rect id="path-63" x="184.35" y="84.6" width="24.85" height="4.19"></rect>
+        <linearGradient x1="1.47148333e-13%" y1="50.0281532%" x2="100.025855%" y2="50.0281532%" id="linearGradient-64">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <path d="M332.1,20.64 L301.77,20.64 C299.478018,20.64 297.62,22.4980183 297.62,24.79 L297.62,43.47 C297.625498,45.7597007 299.480299,47.6145025 301.77,47.62 L308.39,47.62 L314.64,56.16 L316.93,56.16 L325.47,47.62 L332.09,47.62 C334.383605,47.6200066 336.244487,45.7635983 336.25,43.47 L336.25,24.8 C336.252656,23.69762 335.816598,22.6394804 335.038034,21.8590403 C334.25947,21.0786001 333.202383,20.6399968 332.1,20.64 Z" id="path-65"></path>
+        <linearGradient x1="-0.0258866085%" y1="50.0281532%" x2="99.9999688%" y2="50.0281532%" id="linearGradient-66">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M329.81,20.64 L299.48,20.64 C297.188018,20.64 295.33,22.4980183 295.33,24.79 L295.33,43.47 C295.335498,45.7597007 297.190299,47.6145025 299.48,47.62 L306.1,47.62 L314.64,56.16 L323.18,47.62 L329.8,47.62 C332.093605,47.6200066 333.954487,45.7635983 333.96,43.47 L333.96,24.8 C333.962656,23.69762 333.526598,22.6394804 332.748034,21.8590403 C331.96947,21.0786001 330.912383,20.6399968 329.81,20.64 Z" id="path-67"></path>
+        <linearGradient x1="0%" y1="50.0184706%" x2="100.036941%" y2="50.0184706%" id="linearGradient-68">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50.0184706%" x2="100.036941%" y2="50.0184706%" id="linearGradient-69">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-70" x="247.67" y="62.38" width="27.07" height="27.07" rx="6.36"></rect>
+        <rect id="path-71" x="252.87" y="67.58" width="16.68" height="16.68" rx="5.6"></rect>
+        <rect id="path-72" x="256.71" y="71.42" width="9" height="9" rx="3.02"></rect>
+        <linearGradient x1="0%" y1="49.9843113%" x2="100%" y2="49.9843113%" id="linearGradient-73">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-74" x="149.45" y="119.8" width="31.87" height="31.87" rx="9.26"></rect>
+        <linearGradient x1="0%" y1="49.9843113%" x2="100%" y2="49.9843113%" id="linearGradient-75">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-76" x="147.11" y="119.8" width="31.87" height="31.87" rx="6.36"></rect>
+        <rect id="path-77" x="153.23" y="125.92" width="19.63" height="19.63" rx="6.36"></rect>
+        <linearGradient x1="0%" y1="50.0472144%" x2="100%" y2="50.0472144%" id="linearGradient-78">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-79" x="157.75" y="130.43" width="10.59" height="10.59" rx="3.56"></rect>
+        <linearGradient x1="82.4838013%" y1="43.194707%" x2="15.5939525%" y2="83.6483932%" id="linearGradient-80">
+            <stop stop-color="#4C93F4" offset="0%"></stop>
+            <stop stop-color="#0B63DA" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-81" points="140.36 245.96 147.59 245.96 147.59 239.7 150.1 239.7 150.1 245.96 159.59 245.96 163.2 249.57 170.75 249.57 175.69 244.63 175.69 238.58 179.22 238.58 182.15 235.65 184.36 235.65 179.87 256.81 138.06 256.81"></polygon>
+        <linearGradient x1="40.0873362%" y1="100.248447%" x2="65.1091703%" y2="-26.5838509%" id="linearGradient-82">
+            <stop stop-color="#223762" offset="0%"></stop>
+            <stop stop-color="#041B48" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9987017%" y1="10.2012167%" x2="49.9987017%" y2="224.520356%" id="linearGradient-83">
+            <stop stop-color="#FFC063" offset="0%"></stop>
+            <stop stop-color="#E44D0B" offset="95%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Working" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Services-Deep-Dive---Web" transform="translate(-174.000000, -223.000000)">
+            <g id="1_work" transform="translate(142.000000, 223.000000)">
+                <rect id="Mask" fill-rule="nonzero" x="0" y="0" width="584" height="264"></rect>
+                <g transform="translate(32.000000, 0.000000)">
+                    <path d="M43.27,264 L43.27,176.85 L112.9,176.85 L112.9,29.14 L148.37,0.46 L185.67,30.61 L185.67,176.85 L273.39,176.85 L273.39,59.91 L305.09,59.91 L360.89,105 L441.77,105 L441.77,199.06 L474.85,199.06 C476.920205,220.643283 476.109852,242.735283 472.33785,264 L43.27,264 Z" id="Combined-Shape" fill="#949494" opacity="0.1"></path>
+                    <g id="Rectangle" transform="translate(50.851563, 79.141082) rotate(45.000000) translate(-50.851563, -79.141082) ">
+                        <use fill="#223762" xlink:href="#path-1"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-1"></use>
+                    </g>
+                    <circle id="Oval" fill="#EF8C48" opacity="0.48" transform="translate(110.713771, 76.059327) rotate(-32.510000) translate(-110.713771, -76.059327) " cx="110.713771" cy="76.0593268" r="11.7"></circle>
+                    <g id="Rectangle" transform="translate(45.021563, 73.306217) rotate(45.000000) translate(-45.021563, -73.306217) ">
+                        <use fill="#223762" xlink:href="#path-2"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Rectangle" transform="translate(28.222187, 189.277590) rotate(-10.660000) translate(-28.222187, -189.277590) ">
+                        <use fill="#223762" xlink:href="#path-3"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Rectangle" transform="translate(96.803900, 54.816900) rotate(147.264774) translate(-96.803900, -54.816900) ">
+                        <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-5"></use>
+                    </g>
+                    <circle id="Oval" fill="#EF8C48" transform="translate(110.713771, 76.059327) rotate(-32.510000) translate(-110.713771, -76.059327) " cx="110.713771" cy="76.0593268" r="8.33"></circle>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-8"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Path" transform="translate(20.111296, 190.779874) rotate(-10.660000) translate(-20.111296, -190.779874) ">
+                        <use fill="#223762" xlink:href="#path-9"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-9"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="#223762" xlink:href="#path-10"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-10"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="#4C93F4" xlink:href="#path-11"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-11"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="#223762" xlink:href="#path-12"></use>
+                        <use fill="#FFFCFC" style="mix-blend-mode: saturation;" xlink:href="#path-12"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#3769A5" xlink:href="#path-13"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-13"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-14"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-14"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#3769A5" xlink:href="#path-15"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-15"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#4C93F4" x="261.01" y="259.57" width="41.6" height="3.66"></rect>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-16"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-16"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#4C93F4" xlink:href="#path-17"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-17"></use>
+                    </g>
+                    <path d="M375.86,234.4 L215.3,234.4 C213.80051,234.426231 212.362175,233.806257 211.351641,232.698115 C210.341108,231.589972 209.856008,230.100726 210.02,228.61 L219.02,126.28 C219.353327,123.03438 222.057838,120.548805 225.32,120.49 L385.82,120.49 C387.31949,120.463769 388.757825,121.083743 389.768359,122.191885 C390.778892,123.300028 391.263992,124.789274 391.1,126.28 L382.1,228.61 C381.769647,231.833412 379.099084,234.311386 375.86,234.4 Z" id="Path" fill="#D6E3FA"></path>
+                    <g id="Path">
+                        <use fill="#D6E3FA" xlink:href="#path-18"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-18"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-19"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-19"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-20)" xlink:href="#path-21"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-21"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#D6E3FA" xlink:href="#path-22"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-22"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-23)" xlink:href="#path-24"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-24"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-25)" xlink:href="#path-26"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-26"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-25)" xlink:href="#path-27"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-27"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-23)" xlink:href="#path-28"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-28"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-29)" xlink:href="#path-30"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-30"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-31)" xlink:href="#path-32"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-32"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-29)" xlink:href="#path-33"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-33"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-31)" xlink:href="#path-34"></use>
+                        <use fill="#217A2C" style="mix-blend-mode: color;" xlink:href="#path-34"></use>
+                    </g>
+                    <polygon id="Path" fill="url(#linearGradient-35)" points="107.36 263.23 67.17 263.23 61.2 211.14 113.33 211.14"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-36)" points="61.2 211.14 67.17 263.23 82.55 263.23 78.09 211.14"></polygon>
+                    <rect id="Rectangle" fill="#FFD46A" x="59.16" y="209.65" width="56.2" height="12.84"></rect>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-37"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-37"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-38)" xlink:href="#path-39"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-39"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#3769A5" xlink:href="#path-40"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-40"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-41"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-41"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-42"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-42"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#D6E3FA" xlink:href="#path-43"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-43"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#D6E3FA" xlink:href="#path-44"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-44"></use>
+                    </g>
+                    <polygon id="Path" fill="#FFFFFF" points="244.29 210.33 223.41 210.33 230.83 125.54 251.7 125.54"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="375.13 210.33 249.03 210.33 256.45 125.54 382.55 125.54"></polygon>
+                    <polygon id="Path" fill="#FFD46A" points="239.43 135.73 231.61 135.73 232.3 127.92 240.11 127.92"></polygon>
+                    <polygon id="Path" fill="#FF9F5B" points="248.73 135.73 240.91 135.73 241.6 127.92 249.41 127.92"></polygon>
+                    <polygon id="Path" fill="#FFD46A" points="238.56 145.16 230.74 145.16 231.43 137.34 239.24 137.34"></polygon>
+                    <polygon id="Path" fill="#FF9F5B" points="247.86 145.16 240.05 145.16 240.73 137.34 248.54 137.34"></polygon>
+                    <polygon id="Path" fill="#FF9F5B" points="237.69 154.58 229.88 154.58 230.56 146.77 238.37 146.77"></polygon>
+                    <polygon id="Path" fill="#FFD46A" points="246.99 154.58 239.18 154.58 239.86 146.77 247.67 146.77"></polygon>
+                    <polygon id="Path" fill="#FFD46A" points="368.62 150.87 361.92 150.87 362.5 144.16 369.21 144.16"></polygon>
+                    <polygon id="Path" fill="#FF9F5B" points="376.61 150.87 369.9 150.87 370.49 144.16 377.19 144.16"></polygon>
+                    <polygon id="Path" fill="#FFD46A" points="367.88 158.96 361.17 158.96 361.76 152.25 368.46 152.25"></polygon>
+                    <polygon id="Path" fill="#FF9F5B" points="375.86 158.96 369.15 158.96 369.74 152.25 376.45 152.25"></polygon>
+                    <polygon id="Path" fill="#FF9F5B" points="367.13 167.05 360.43 167.05 361.01 160.34 367.72 160.34"></polygon>
+                    <polygon id="Path" fill="#FFD46A" points="375.12 167.05 368.41 167.05 369 160.34 375.7 160.34"></polygon>
+                    <g id="Path">
+                        <use fill="#4C93F4" xlink:href="#path-45"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-45"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#D6E3FA" xlink:href="#path-46"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-46"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#D6E3FA" xlink:href="#path-47"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-47"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#3769A5" xlink:href="#path-48"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-48"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#4C93F4" xlink:href="#path-49"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-49"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-50"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-50"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#D6E3FA" xlink:href="#path-51"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-51"></use>
+                    </g>
+                    <g id="Oval">
+                        <use fill="#223762" xlink:href="#path-52"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-52"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#4C93F4" xlink:href="#path-53"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-53"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="#223762" xlink:href="#path-54"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-54"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#223762" xlink:href="#path-55"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-55"></use>
+                    </g>
+                    <rect id="Rectangle" fill="url(#linearGradient-56)" x="361.17" y="63.96" width="47.82" height="37.21" rx="1.97"></rect>
+                    <polyline id="Path" stroke="#2C2C2C" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" points="363.02 66.87 385.08 87.03 406.75 66.87"></polyline>
+                    <ellipse id="Oval" fill="#FF9F5B" cx="363.13" cy="64.02" rx="8.33" ry="8.99"></ellipse>
+                    <ellipse id="Oval" fill="#FFD46A" cx="361.92" cy="64.02" rx="8.33" ry="8.99"></ellipse>
+                    <rect id="Rectangle" fill="#FFFFFF" x="360.7" y="58.11" width="2.43" height="11.81" rx="0.82"></rect>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-57)" xlink:href="#path-58"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-58"></use>
+                    </g>
+                    <polygon id="Path" fill="url(#linearGradient-56)" points="213.82 93.06 179.79 93.06 179.79 42.52 199.52 42.52 213.82 57.21"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="199.52 42.52 199.52 57.21 213.82 57.21"></polygon>
+                    <g id="Rectangle">
+                        <use fill="#EAF1FC" xlink:href="#path-59"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-59"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#EAF1FC" xlink:href="#path-60"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-60"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#EAF1FC" xlink:href="#path-61"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-61"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#EAF1FC" xlink:href="#path-62"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-62"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#EAF1FC" xlink:href="#path-63"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-63"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-64)" xlink:href="#path-65"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-65"></use>
+                    </g>
+                    <g id="Path">
+                        <use fill="url(#linearGradient-66)" xlink:href="#path-67"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-67"></use>
+                    </g>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="314.64" cy="34.57" rx="7.35" ry="8.19"></ellipse>
+                    <rect id="Rectangle" fill="url(#linearGradient-68)" x="249.66" y="62.38" width="27.07" height="27.07" rx="8.61"></rect>
+                    <g id="Rectangle">
+                        <use fill="url(#linearGradient-69)" xlink:href="#path-70"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-70"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#D6E3FA" xlink:href="#path-71"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-71"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="url(#linearGradient-57)" xlink:href="#path-72"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-72"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="url(#linearGradient-73)" xlink:href="#path-74"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-74"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="url(#linearGradient-75)" xlink:href="#path-76"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-76"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#D6E3FA" xlink:href="#path-77"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-77"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="url(#linearGradient-78)" xlink:href="#path-79"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-79"></use>
+                    </g>
+                    <path d="M411.77,89 C411.77,89 434.47,118.68 425.77,132.62 C417.07,146.56 406.17,133.62 404.93,129 C403.69,124.38 408.15,118 415.6,117.14 C423.05,116.28 430.34,140.25 421.23,151.35 C412.12,162.45 396.37,157.88 396.37,157.88" id="Path" stroke="#112244" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3"></path>
+                    <ellipse id="Oval" fill="#FFD46A" cx="423.68" cy="146.35" rx="3.81" ry="3.53"></ellipse>
+                    <path d="M261.21,91.88 C259.813929,97.1349357 260.856913,102.739141 264.05,107.14 C269.45,114.4 280.79,115.33 280.79,115.33" id="Path" stroke="#112244" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3"></path>
+                    <path d="M196.72,96.78 C196.72,96.78 193.8,103.85 192,117 C190.2,130.15 212.49,136.64 212.49,136.64" id="Path" stroke="#112244" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3"></path>
+                    <path d="M163,154.58 C163,154.58 160.94,160.37 166.52,170.78 C172.1,181.19 181.78,183.78 188.29,178.78 C194.8,173.78 194.92,157.38 191.88,153.85 C188.84,150.32 186.88,152.36 186.29,158.13 C185.7,163.9 197.4,174.83 203.36,177.46 C209.32,180.09 209.95,178.46 209.95,178.46" id="Path" stroke="#112244" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3"></path>
+                    <ellipse id="Oval" fill="#FFD46A" cx="262.18" cy="102.99" rx="3.53" ry="3.81"></ellipse>
+                    <ellipse id="Oval" fill="#FFD46A" cx="200.34" cy="131.02" rx="3.53" ry="3.81"></ellipse>
+                    <ellipse id="Oval" fill="#FFD46A" cx="193.28" cy="158.96" rx="3.53" ry="3.81"></ellipse>
+                    <path d="M315.79,59.44 C315.79,59.44 315.03,69.28 326.01,73.14 C336.99,77 351.5,81.84 352.43,93.93 C353.36,106.02 339.43,115.33 339.43,115.33" id="Path" stroke="#112244" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3"></path>
+                    <ellipse id="Oval" fill="#FFD46A" cx="319.87" cy="69.2" rx="3.53" ry="3.81"></ellipse>
+                    <polygon id="Path" fill="#FFFFFF" points="152.79 228.44 160.36 232.1 167.47 226.52 171.53 228.75 182.32 218.61 186.16 227.21 190.37 207.4 173.11 224.54 164.68 218.61"></polygon>
+                    <g id="Path" opacity="0.200000003">
+                        <use fill="url(#linearGradient-80)" xlink:href="#path-81"></use>
+                        <use fill="#D8D8D8" style="mix-blend-mode: saturation;" xlink:href="#path-81"></use>
+                    </g>
+                    <polygon id="Path" fill="#FFFFFF" points="353.07 155.19 275.12 155.19 275.69 148.65 353.64 148.65"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="351.9 165.36 273.94 165.36 274.52 158.82 352.47 158.82"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="351.5 176.39 273.55 176.39 274.12 169.85 352.08 169.85"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-82)" opacity="0.45" x="338.35" y="219.93" width="22.9" height="16.1"></rect>
+                    <path d="M331.51,239.37 L335,238.37 C338.49,237.37 338.35,230.11 338.35,230.11 L338.35,218 L361.25,218 L361.25,230.11 C361.25,230.11 361.39,237.36 357.9,238.37 L354.41,239.37 L331.51,239.37 Z" id="Path" fill="url(#linearGradient-83)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
